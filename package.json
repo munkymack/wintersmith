@@ -5,5 +5,23 @@
     "underscore": "1.4.x",
     "wintersmith": "^2.2.1"
   },
-  "private": "true"
+  "private": "true",
+  "name": "wintersmithnetlify",
+  "description": "The default [wintersmith](https://github.com/jnordberg/wintersmith) template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munkymack/wintersmith.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munkymack/wintersmith/issues"
+  },
+  "homepage": "https://github.com/munkymack/wintersmith#readme"
 }
